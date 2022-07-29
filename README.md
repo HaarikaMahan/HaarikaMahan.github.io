@@ -51,6 +51,10 @@ https://public.tableau.com/app/profile/haarika.mahankali/viz/Influenza_StoryBoar
 
 ![image](https://user-images.githubusercontent.com/107511180/181742135-a6f66e5d-cda5-46bb-a9ee-adffb6c50f77.png)
 
+![image](https://user-images.githubusercontent.com/107511180/181742731-fa238f30-a6e6-40fd-9cf2-8e16e3b6d197.png)
+
+
+
 
 
 
