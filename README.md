@@ -7,7 +7,9 @@
 
 I’m a data analyst with advanced skills in 
 SQL, Tableau and an intermediate skill set in Microsoft Applications
+
 and Python. I have previous experience in working on Oracle E-biz 
+
 suite on the financial modules.
 
 
