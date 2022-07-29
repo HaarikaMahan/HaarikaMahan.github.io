@@ -45,13 +45,34 @@ Mahankali.haarika@gmail.com
 
 ![image](https://user-images.githubusercontent.com/107511180/181736500-1241f447-4f48-445e-bcab-47796d9072ec.png)
 ### Project Presentation
-https://public.tableau.com/app/profile/haarika.mahankali/viz/Influenza_StoryBoard/Story1, https://www.youtube.com/watch?v=kPQspbCofxQ
+https://public.tableau.com/app/profile/haarika.mahankali/viz/Influenza_StoryBoard/Story1,
+https://www.youtube.com/watch?v=kPQspbCofxQ
+
 
 ![image](https://user-images.githubusercontent.com/107511180/181741427-36b9b64b-706c-447d-aa21-b29d390193ac.png)
 
 ![image](https://user-images.githubusercontent.com/107511180/181742135-a6f66e5d-cda5-46bb-a9ee-adffb6c50f77.png)
 
 ![image](https://user-images.githubusercontent.com/107511180/181742731-fa238f30-a6e6-40fd-9cf2-8e16e3b6d197.png)
+
+![image](https://user-images.githubusercontent.com/107511180/181746774-fd60518a-6d0d-4608-8e59-b3f50137ec36.png)
+
+![image](https://user-images.githubusercontent.com/107511180/181747725-9f08300c-48c2-412d-9d15-457f86026da2.png)
+## Project Presentation:
+https://public.tableau.com/app/profile/haarika.mahankali/viz/RockbusterLLC_/Story1?publish=yes
+
+![image](https://user-images.githubusercontent.com/107511180/181748163-78c2b5c4-83b6-46e5-8d83-1645a7e23da6.png)
+
+![image](https://user-images.githubusercontent.com/107511180/181748387-2ab4552d-bc90-4dfa-966e-c1f30a4f169f.png)
+
+![image](https://user-images.githubusercontent.com/107511180/181748651-529d9055-9587-48f3-9921-5bfc2dcd5821.png)
+
+![image](https://user-images.githubusercontent.com/107511180/181749094-15fbf750-5131-4f6a-b341-1c7b0ea0424c.png)
+
+![image](https://user-images.githubusercontent.com/107511180/181750063-73863823-3851-456d-98d3-cb131b89de95.png)
+
+
+
 
 
 
