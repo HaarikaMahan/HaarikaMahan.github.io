@@ -3,9 +3,10 @@
 
 ![image](https://user-images.githubusercontent.com/107511180/181715936-4a7b7b57-6384-4ff0-9ef2-75d86f72859a.png)
 
+![image](https://user-images.githubusercontent.com/107511180/181716702-8fde9109-17ea-4f05-b3c1-0f34f6d67854.png)
 
 I’m a data analyst with advanced skills in 
-SQL, Tableau and an intermediate skill set in  ![image](https://user-images.githubusercontent.com/107511180/181716334-127ed5d3-f06e-443f-8ffe-3925f8907b2d.png)
+SQL, Tableau and an intermediate skill set in  
 Microsoft Applications and Python.
 I have previous experience in working on 
 Oracle E-biz suite on the 
