@@ -29,16 +29,8 @@ Mahankali.haarika@gmail.com
 ![image](https://user-images.githubusercontent.com/107511180/181689469-fad0b1d9-ef9d-4b79-8b54-7b8f52a6ec7e.png)
 ![image](https://user-images.githubusercontent.com/107511180/181725919-0e4b04f5-6140-4281-afa3-d93b72fa1a49.png)
 
-Perform a descriptive analysis of video game data set              
+![image](https://user-images.githubusercontent.com/107511180/181726646-74a69ed2-dbc6-4393-908e-a18b845fba50.png)        ![image](https://user-images.githubusercontent.com/107511180/181727150-28008741-b365-46c7-a101-1e77f9586af9.png)     ![image](https://user-images.githubusercontent.com/107511180/181727219-57c8d6e7-be8d-4dd7-8728-f11d7b17a845.png)
 
-Create a better understanding of video game market
-
-Inform the development of new games for GameCo
-
-Tools Used: ![image](https://user-images.githubusercontent.com/107511180/181726730-5beaad3d-3740-47e7-a5f8-09f2184ad3ae.png)     ![image](https://user-images.githubusercontent.com/107511180/181726793-ed8b02cd-b08c-4e70-82ac-b45f381204e4.png)
-
-
-![image](https://user-images.githubusercontent.com/107511180/181726646-74a69ed2-dbc6-4393-908e-a18b845fba50.png)
 
 ![image](https://user-images.githubusercontent.com/107511180/181726152-010ec507-b984-4a45-a368-71aa6ae0dcfd.png)
 
