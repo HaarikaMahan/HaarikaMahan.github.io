@@ -48,7 +48,8 @@ https://www.youtube.com/watch?v=kPQspbCofxQ
 
 ![image](https://user-images.githubusercontent.com/107511180/181736500-1241f447-4f48-445e-bcab-47796d9072ec.png)
 
-
+## Project Presentation:
+https://public.tableau.com/app/profile/haarika.mahankali/viz/RockbusterLLC_/Story1?publish=yes
 
 ![image](https://user-images.githubusercontent.com/107511180/181741427-36b9b64b-706c-447d-aa21-b29d390193ac.png)
 
@@ -59,8 +60,7 @@ https://www.youtube.com/watch?v=kPQspbCofxQ
 ![image](https://user-images.githubusercontent.com/107511180/181746774-fd60518a-6d0d-4608-8e59-b3f50137ec36.png)
 
 ![image](https://user-images.githubusercontent.com/107511180/181747725-9f08300c-48c2-412d-9d15-457f86026da2.png)
-## Project Presentation:
-https://public.tableau.com/app/profile/haarika.mahankali/viz/RockbusterLLC_/Story1?publish=yes
+
 
 ![image](https://user-images.githubusercontent.com/107511180/181748163-78c2b5c4-83b6-46e5-8d83-1645a7e23da6.png)
 
