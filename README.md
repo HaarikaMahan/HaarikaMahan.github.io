@@ -12,8 +12,6 @@ and Python. I have previous experience in working on Oracle E-biz
 
 suite on the financial modules.
 
-# Resume: 
-file:///C:/Users/haari/OneDrive/Desktop/Data%20Analytics/Mahankali-Haarika-Resume.pdf
 
 
 # You can reach me at:
