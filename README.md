@@ -47,6 +47,11 @@ Mahankali.haarika@gmail.com
 ### Project Presentation
 https://public.tableau.com/app/profile/haarika.mahankali/viz/Influenza_StoryBoard/Story1, https://www.youtube.com/watch?v=kPQspbCofxQ
 
+![image](https://user-images.githubusercontent.com/107511180/181741427-36b9b64b-706c-447d-aa21-b29d390193ac.png)
+
+![image](https://user-images.githubusercontent.com/107511180/181742135-a6f66e5d-cda5-46bb-a9ee-adffb6c50f77.png)
+
+
 
 
 
