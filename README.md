@@ -35,6 +35,9 @@ Mahankali.haarika@gmail.com
 
 ![image](https://user-images.githubusercontent.com/107511180/181728076-8635dd25-99bf-47a2-8643-2e43ec7ccc3c.png)
 
+### Project Presentation
+https://public.tableau.com/app/profile/haarika.mahankali/viz/Influenza_StoryBoard/Story1,
+https://www.youtube.com/watch?v=kPQspbCofxQ
 ![image](https://user-images.githubusercontent.com/107511180/181731073-3ea54312-4b2b-4167-a213-85c1ff55449a.png)
 
 ![image](https://user-images.githubusercontent.com/107511180/181732916-0b9347f8-284d-4a34-830f-8907eb77f40f.png)
@@ -44,9 +47,7 @@ Mahankali.haarika@gmail.com
 ![image](https://user-images.githubusercontent.com/107511180/181735562-d886a324-18da-4b01-bb63-8ab0473d8a7b.png)
 
 ![image](https://user-images.githubusercontent.com/107511180/181736500-1241f447-4f48-445e-bcab-47796d9072ec.png)
-### Project Presentation
-https://public.tableau.com/app/profile/haarika.mahankali/viz/Influenza_StoryBoard/Story1,
-https://www.youtube.com/watch?v=kPQspbCofxQ
+
 
 
 ![image](https://user-images.githubusercontent.com/107511180/181741427-36b9b64b-706c-447d-aa21-b29d390193ac.png)
