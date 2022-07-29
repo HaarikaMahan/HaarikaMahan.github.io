@@ -16,5 +16,4 @@ Mahankali.haarika@gmail.com
 ![image](https://user-images.githubusercontent.com/107511180/181689469-fad0b1d9-ef9d-4b79-8b54-7b8f52a6ec7e.png)
 
 
-![image](https://user-images.githubusercontent.com/107511180/181684950-1f2642fa-bd57-43d3-b202-c701827970d1.png)
 
