@@ -10,8 +10,8 @@ Mahankali.haarika@gmail.com
  https://www.linkedin.com/in/haarika-mahankali-815851238/    
  www.website.com
 
+![image](https://user-images.githubusercontent.com/107511180/181689469-fad0b1d9-ef9d-4b79-8b54-7b8f52a6ec7e.png)
 
-![image](https://user-images.githubusercontent.com/107511180/181686443-362ac6a0-965a-4b5c-9925-5d58c6420349.png)
 
 ![image](https://user-images.githubusercontent.com/107511180/181684950-1f2642fa-bd57-43d3-b202-c701827970d1.png)
 
