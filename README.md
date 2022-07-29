@@ -1,10 +1,11 @@
 ![image](https://user-images.githubusercontent.com/107511180/181687546-0ca993bc-f93f-4ef0-bef1-4cd6ab261f3f.png)
 ![image](https://user-images.githubusercontent.com/107511180/181687586-f9fc2cf7-a4e5-49cb-a1ca-2a74c2dee3ce.png)
 
-You can reach me at:
+# You can reach me at:
 
 Mahankali.haarika@gmail.com      
 (425) 408 – 2631 Bothell, WA
+
  https://github.com/HaarikaMahan                    
  https://www.linkedin.com/in/haarika-mahankali-815851238/    
  www.website.com
