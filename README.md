@@ -27,7 +27,8 @@ Mahankali.haarika@gmail.com
 # Projects
 
 ![image](https://user-images.githubusercontent.com/107511180/181689469-fad0b1d9-ef9d-4b79-8b54-7b8f52a6ec7e.png)
-![image](https://user-images.githubusercontent.com/107511180/181724908-dbaa8be7-43a0-42d4-b2ab-5877ff244111.png)
+![image](https://user-images.githubusercontent.com/107511180/181725664-1b804165-d453-49bf-a6b0-cc942093126b.png)
+
 
 Data USed: [vgsales.xlsx](https://github.com/HaarikaMahan/HaarikaMahan.github.io/files/9218399/vgsales.xlsx) , https://www.vgchartz.com/methodology.php
 
